@@ -31,7 +31,7 @@
   "dependencies": {
     "browser-sync": "^2.11.1",
     "chalk": "^1.1.1",
-    "nopt": "^3.0.6",
+    "nopt": "^4.0.0",
     "prompt": "^1.0.0",
     "q": "^1.4.1",
     "xml2js": "^0.4.16"
